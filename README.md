@@ -1,0 +1,2 @@
+# Substance_Panting
+这个是讲解部分pbr贴图绘制的一些常用知识点和常用节点 以Substance_Designer为核心的一些贴图绘制方法
